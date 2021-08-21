@@ -1,0 +1,99 @@
+body {
+    font-family: 'Poppins';
+    background-color: hsl(0, 0%, 98%);
+}
+
+.main--container {
+    max-width: 320px;
+    margin: 0 auto;
+    margin-top: 90px;
+}
+
+.head--title {
+    font-weight: 200;
+    font-size: 26px;
+    color: hsl(234, 12%, 34%);
+}
+
+.head--title-bold {
+    font-weight: 600;
+    display: block;
+}
+
+.head--paragraph {
+    text-align: center;
+    font-size: 15px;
+}
+
+p {
+    color: hsl(229, 6%, 66%);
+    font-size: 14px;
+    margin-top: 5px;
+}
+
+h2 {
+    color: hsl(234, 12%, 34%);
+    font-weight: 600;
+    font-size: 21px;
+    margin: 0;
+}
+
+.content--card:first-of-type{
+    margin-top: 50px;
+}
+
+.content--card {
+    border-radius: 5px;
+    -moz-box-shadow:    3px 3px 5px 6px #ccc;
+    -webkit-box-shadow: 3px 3px 5px 6px #ccc;
+    box-shadow: 0 25px 25px hsl(229, 6%, 85%);
+    margin-bottom: 30px;
+    padding: 25px;
+}
+
+.border-red {
+    border-top: 4px solid hsl(0, 78%, 62%);
+}
+
+.border-cyan {
+    border-top: 4px solid hsl(180, 62%, 55%);
+}
+
+.border-orange {
+    border-top: 4px solid hsl(34, 97%, 64%);
+}
+
+.border-blue {
+    border-top: 4px solid hsl(212, 86%, 64%);
+}
+
+.content--card-icon-container {
+    text-align: right;
+    margin-top: 30px;
+}
+
+.content--card-icon {
+    width: 60px;
+}
+
+.attribution {
+    margin-top: 50px;
+    position: relative;
+    font-size: 10px;
+    width: 100%;
+}
+
+.attribution-text {
+    position: absolute;
+    width: 100%;
+    color: grey;
+    line-height: 40px;
+    font-size: 0.7em;
+    text-align: center;
+    bottom: 0;
+}
+
+a {
+    text-decoration: none;
+    color: hsl(179, 100%, 13%);
+}
