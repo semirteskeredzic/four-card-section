@@ -1,7 +1,8 @@
 repo_name: semirteskeredzic/four-card-section
 report_id: 06c173ccf42c3253c4c345b2bbc72ec1
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T16:59:22+00:00'
+timestamp: '2024-01-04T15:08:00+00:00'
 requested_by: semirteskeredzic
 provider: github
 branch: main
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/semirteskeredzic/four-card-section
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -24,4 +26,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/semirteskeredzic/four-card-section
   detection_source: Repo Metadata
